@@ -1,0 +1,6 @@
+{
+  "name": "Vẽ hình Tikz AI",
+  "description": "Ứng dụng chuyển đổi hình ảnh toán học và tự động tạo mã TikZ LaTeX biên dịch hình vẽ bởi Thầy Vương Quốc Chiến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
